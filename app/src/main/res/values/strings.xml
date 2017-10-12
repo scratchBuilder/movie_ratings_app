@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Popular Movies App</string>
+    <string name="error_during_load">Error during load</string>
+</resources>
